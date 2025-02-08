@@ -55,9 +55,11 @@ This project is open source and available under the [MIT License](https://openso
 
 ## Acknowledgments
 
-Email:yeswanthsoma83@gmail.com
 - Inspired by the Marvel Cinematic Universe and its beloved Avengers characters.
 - Created as a fun Python programming exercise.
 
 Enjoy finding out which Avenger you are!
 
+Email:yeswanthsoma83@gmail.com
+
+@Yeswanthsoma
