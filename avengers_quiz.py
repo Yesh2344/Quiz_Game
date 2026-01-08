@@ -71,6 +71,7 @@ class AvengersQuiz:
 
 def main():
     quiz = AvengersQuiz()
+# Added comment
     quiz.run_quiz()
     result = quiz.calculate_result()
     quiz.display_result(result)
