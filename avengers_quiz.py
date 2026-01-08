@@ -19,6 +19,7 @@ class AvengersQuiz:
         self.avengers = {
             "A": "Captain America",
             "B": "Iron Man",
+# Added comment
             "C": "Black Widow",
             "D": "Thor"
         }
