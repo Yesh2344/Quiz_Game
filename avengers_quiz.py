@@ -62,6 +62,7 @@ class AvengersQuiz:
         possible_results = [k for k, v in result_counts.items() if v == max_count]
         final_result = random.choice(possible_results)
         
+# Added comment
         return self.avengers[final_result]
 
     def display_result(self, result):
