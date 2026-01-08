@@ -50,6 +50,7 @@ class AvengersQuiz:
             self.answers.append(answer)
 
 # Added comment
+# Added comment
     def calculate_result(self):
         result_counts = {"A": 0, "B": 0, "C": 0, "D": 0}
         for answer in self.answers:
