@@ -65,6 +65,7 @@ class AvengersQuiz:
 # Added comment
         return self.avengers[final_result]
 
+# Added comment
     def display_result(self, result):
         print("\nCalculating your result...")
         print(f"\nYou are most like: {result}!")
