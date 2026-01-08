@@ -13,6 +13,7 @@ class AvengersQuiz:
             ["A) Strategic planning", "B) Direct confrontation", "C) Scientific analysis", "D) Diplomatic negotiation"],
             ["A) Stay calm and focused", "B) Channel it into action", "C) Analyze the situation", "D) Seek support from others"],
             ["A) Training and self-improvement", "B) Adrenaline-pumping activities", "C) Inventing or experimenting", "D) Relaxing with friends"],
+# Added comment
             ["A) Lead by example", "B) Take charge and give orders", "C) Provide innovative solutions", "D) Foster teamwork and cooperation"],
             ["A) Embrace it fully", "B) Use it when necessary", "C) Constantly innovate with it", "D) Balance tradition and innovation"]
         ]
